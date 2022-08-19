@@ -10,4 +10,20 @@ Desafio proposto no programa Explorer da Rocketseat, a ideia era pegar o código
 
 **Front-end:** HTML & CSS
 
+## Deploy:
+
+
+
+## Imagens de exemplo:
+
+### HTML e CSS com bugs:
+
+<img src="https://github.com/jscloneski/Desafio-Fase02-Corre-odoc-digo/blob/main/Image02/antes.jpeg" alt="Antes">
+
+### Bugs corrigidos:
+
+<img src="https://github.com/jscloneski/Desafio-Fase02-Corre-odoc-digo/blob/main/Image02/depois.jpeg" alt="Depois">
+
+
+
 
