@@ -78,6 +78,7 @@ body {
   
   button {
     color: white;
+    text-transform: uppercase;
     font-family: "Open Sans", sans-serif;
   
     background: #69B99D;
@@ -87,6 +88,7 @@ body {
     display: flex;
     justify-content: center;
     gap: 10px;
+    align-items: center;
   
     border-radius: 4px;
   
