@@ -7,23 +7,23 @@ body {
   
     min-height: 100vh;
   }
-  
+
   .page {
-    width: 600px;
-    margin: 0 auto;
+    width: 1000px;
+    margin: 65px auto 0;
     padding-top: 65px;
   }
   
   nav {
     display: flex;
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
-  
-    margin-bottom: 15px;
+    margin-bottom: 55px;
   }
   
   ul {
     display: flex;
+    gap: 48px;
     list-style: none;
     margin: 0;
     padding: 0;
@@ -43,9 +43,13 @@ body {
     opacity: 1;
   }
   
-  h1,
-  ul {
+  h1,  ul {
     font-family: "Mulish", sans-serif;
+  }
+
+  main {
+    display: flex;
+    align-items: center;
   }
   
   h1 {
